@@ -1,0 +1,3 @@
+﻿main.obj : error LNK2005: main 已经在 1110.obj 中定义
+main.obj : error LNK2001: 无法解析的外部符号 gettwoSum
+D:\Program Files\Project1\x64\Release\Project1.exe : fatal error LNK1120: 1 个无法解析的外部命令
